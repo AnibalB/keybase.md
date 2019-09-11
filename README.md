@@ -1,13 +1,9 @@
 ### Keybase proof
-
 I hereby claim:
-
   * I am anibalb on github.
   * I am boscoboinik (https://keybase.io/boscoboinik) on keybase.
   * I have a public key ASBnHn2x2i2J6DMmm4sct1FBjXvmCbiLUGCHtgs5_Thhswo
-
 To claim this, I am signing this object:
-
 ```json
 {
   "body": {
@@ -43,24 +39,15 @@ To claim this, I am signing this object:
   "tag": "signature"
 }
 ```
-
 with the key [ASBnHn2x2i2J6DMmm4sct1FBjXvmCbiLUGCHtgs5_Thhswo](https://keybase.io/boscoboinik), yielding the signature:
-
 ```
 hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZx59sdotiegzJpuLHLdRQY175gm4i1Bgh7YLOf04YbMKp3BheWxvYWTESpcCCcQgpho4xHeT7qaUqAbvBOm+n0bhi80jDEo7jRgJdiJAHX/EIE37Rj06Ug0SBCF/yqw/CX8QWHqrbJi3+bqIU9OxaryLAgHCo3NpZ8RAsRJnI0BLMCraM5tgGiE11umfDvOWYOqEdipWAivxzUYRDRJeYA2pu7IAUV7+mbkScxGMZ7x7Uw/vdhhKO2cqBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMhrSFkdcjcu0nt+v2hFZPJ31Fj35l0iSSqXsw7sX/3Fo3RhZ80CAqd2ZXJzaW9uAQ==
-
 ```
-
 And finally, I am proving ownership of the github account by posting this as a gist.
-
 ### My publicly-auditable identity:
-
 https://keybase.io/boscoboinik
-
 ### From the command line:
-
 Consider the [keybase command line program](https://keybase.io/download).
-
 ```bash
 # look me up
 keybase id boscoboinik
